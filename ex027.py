@@ -1,4 +1,4 @@
-#Crie um programa que leia o nome de uma pessoa e diga se ela possui "Cavalcante" no sobrenome.
+# Crie um programa que leia o nome de uma pessoa e diga se ela possui "Cavalcante" no sobrenome.
 
 n = input("Digite seu nome e sobrenome: ")
 y = n.upper()
